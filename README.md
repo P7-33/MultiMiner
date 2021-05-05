@@ -1,4 +1,4 @@
-## MultiMiner
+### MultiMiner
 
 ### Your coins. Your pools. Your way.
 
