@@ -1,6 +1,9 @@
-### MultiMiner
+### BITCOIN BROWSER COIN
+### https://github.com/P7-33/BROSER-COIN.wiki.git
 
-### Your coins. Your pools. Your way.
+# MultiMiner
+
+## Your coins. Your pools. Your way.
 
 **MultiMiner** is a graphical application for crypto-coin mining on Windows, OS X and Linux. MultiMiner simplifies switching individual devices (**GPUs**, **ASICs**, **FPGAs**, **CPUs**) between crypto-currencies such as Bitcoin, Litecoin, Ethereum, Monero, Zcash, and more, while also allowing you to manage any mining appliances on your network (**AntMiners**, **G-Black**, Raspberry **Pi controllers**, **Spondoolies** and more).
 
